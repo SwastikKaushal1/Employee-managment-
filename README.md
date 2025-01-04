@@ -1,4 +1,5 @@
 
+
 # Employee Management System
 
 A comprehensive **Employee Management System** built with Python and Streamlit, designed to simplify tasks like attendance tracking, payroll calculation, and leave management. This project is lightweight, using CSV files for data storage, making it an excellent solution for small-to-medium-sized organizations.
@@ -52,23 +53,26 @@ A comprehensive **Employee Management System** built with Python and Streamlit, 
 
 ## ⚙️ Setup Instructions
 1. Clone this repository:
+   ```bash
    git clone https://github.com/your-username/employee-management-system.git
    cd employee-management-system
    ```
 
 2. Install the required Python libraries:
+   ```bash
    pip install -r requirements.txt
    ```
 
 3. Run the Streamlit application:
+   ```bash
    streamlit run app.py
    ```
 
 4. Make sure to add these environment variables for secure email notifications:
-   
+   ```bash
    export EMAIL_USER="your-email@gmail.com"
    export EMAIL_PASSWORD="your-email-password"
-   
+   ```
 
 ---
 
