@@ -1,0 +1,4 @@
+pandas==1.5.3
+streamlit==1.18.1
+smtplib==3.9.1
+Pillow==9.3.0
