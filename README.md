@@ -71,6 +71,14 @@ streamlit run app.py
 
 -----
 
+### 3. How to use it
+
+To access the Admin Options from the main menu, use the following:
+
+**Admin Password:** `admin123`
+
+> **Note:** Yes, the admin password is hardcoded directly into the script. I know it's there, and I'm not in the mood to change it right now. Use it as is!
+
 ## 💡 How It Works
 
 1.  **Authentication**: Users open the web portal and are greeted with customized views depending on their role (Admin or Employee).
